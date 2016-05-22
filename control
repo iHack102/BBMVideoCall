@@ -1,0 +1,9 @@
+Package: com.ihack102.bbmvideocall
+Name: BBMVideoCall
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enabled BBM Call in all World Enjoy ! 
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
